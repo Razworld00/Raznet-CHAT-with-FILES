@@ -3,6 +3,9 @@
 
 A Chainlit-based app that allows you to upload and chat with various file formats, including PDF, DOCX, XLSX/CSV, TXT, ODT, MD, JSON, HTML, and PNG/JPG. The app extracts text from files (using OCR for images and PDFs) and answers questions based on the content using the Ollama language model.
 
+![image](https://github.com/user-attachments/assets/1a897791-b178-460b-8670-eda612ca274b)
+
+
 ## Project Folder Structure
 The project is organized as follows:
 
