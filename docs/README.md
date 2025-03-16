@@ -1,7 +1,4 @@
-nano docs/README.md
 
-Replace the content with:
-markdown
 # Raznet-Chat with Files Assistant
 
 A Chainlit-based app that allows you to upload and chat with various file formats, including PDF, DOCX, XLSX/CSV, TXT, ODT, MD, JSON, HTML, and PNG/JPG. The app extracts text from files (using OCR for images and PDFs) and answers questions based on the content using the Ollama language model.
