@@ -1,0 +1,16 @@
+chainlit==2.4.1
+PyPDF2==3.0.1
+ollama==0.4.7
+python-docx==1.1.2      # For DOCX files
+pandas==2.2.3           # For XLS/XLSX and CSV files
+openpyxl==3.1.5         # For XLSX files (dependency for pandas)
+pyth==0.6.0             # For RTF files
+odfpy==1.4.1            # For ODT files
+markdown==3.7           # For Markdown files
+beautifulsoup4==4.12.3  # For HTML files
+pdf2image==1.17.0       # For converting images to PDF (for OCR)
+pytesseract==0.3.13     # For OCR on images
+beautifulsoup4
+pdf2image
+pytesseract
+Pillow
