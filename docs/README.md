@@ -8,6 +8,7 @@ A Chainlit-based app that allows you to upload and chat with various file format
 
 ![image](https://github.com/user-attachments/assets/c182bd96-4c0c-4629-946a-8b06482a6ebb)
 
+![image](https://github.com/user-attachments/assets/1164fc69-1a2f-4f57-8eb6-8d468f4636a7)
 
 
 ## Project Folder Structure
